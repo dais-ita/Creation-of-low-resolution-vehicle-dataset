@@ -1,0 +1,1 @@
+After dataset_creation.py is run the crop images are saved within this folder. It stores a huge amount of images (around 6 gb ).
